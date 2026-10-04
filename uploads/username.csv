@@ -1,7 +1,9 @@
-Username; Identifier;First name;Last name
-booker12;9012;Rachel;Booker
-grey07;2070;Laura;Grey
-johnson81;4081;Craig;Johnson
-jenkins46;9346;Mary;Jenkins
-smith79;5079;Jamie;Smith
-
+Customer_ID,Name, Age,Join_Date,City,Spend_Amount,Is_Active
+1001,John Doe,28,2023-01-15,New York,$150.50,True
+1002,Jane Smith,34,2022/11/05,london,240,FALSE
+1003, bob johnson,,2023-03-22,New York,$95.00,True
+1004,Alice Brown,45,2021-06-18,Chicago,$1100.25,TRUE
+1002,Jane Smith,34,2022/11/05,london,240,FALSE
+1005,Charlie Green,N/A,18-09-2023,LOS ANGELES,"$50,00",True
+1006,Emily White,22,2023-07-02,  Chicago  , $120.00,
+1007,Frank Black, -5,2020-12-12,Miami,$310.75,True
